@@ -20,3 +20,8 @@ api.Plex4.createExplicitSimplexStream()
 
 The last line verifies that Javaplex is indeed working correctly. If no error appears, you're fine. Now you can go in to the
 directory that has all your data and compute the persistent homology as given in the provided script.
+
+The data that this script is applied to can be found at:
+http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php
+
+We used the processed data for our project.
